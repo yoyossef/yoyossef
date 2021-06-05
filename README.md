@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋🏽
 
-<!--
-**yoyossef/yoyossef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yossef, a software engineer and CompSci master's student at the University of Strasbourg. I recently worked as an SWE Apprentice on the Rainbow Web team at [Alcatel-Lucent Enterprise](https://www.al-enterprise.com/), helping build new experiences for a business communication platform using `Angular`, `WebRTC` and the `XMPP` protocol.
 
-Here are some ideas to get you started:
+On the side, I am working on projects like a Pro Clubs Discord Bot and making other contributions related to gaming on linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for SWE positions for Sep. 2021 across Europe.
+
+🌱  &nbsp;&nbsp;I’m currently learning: Hadoop, PySpark and reinforcing my C skills (reading Extreme C Programming)
+
+👯  &nbsp;&nbsp;I’m looking to collaborate on Linux stuff 🐧 :)
+
+📫  &nbsp;&nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/yossef-rostaqi/), [email](mailto:%79&#114;%40%79o&#115;se%66.dev).
+
+Come say hi! 👀

@@ -12,4 +12,6 @@ I am looking for SWE positions for Sep. 2021 across Europe.
 
 📫  &nbsp;&nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/yossef-rostaqi/), [Twitter](https://twitter.com/yostaqi), [email](mailto:%79&#114;%40%79o&#115;se%66.dev).
 
+📝  &nbsp;&nbsp;Read my [CV](https://yossef.dev/cv_english.pdf).
+
 Come say hi! 👀

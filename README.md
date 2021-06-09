@@ -6,7 +6,9 @@ On the side, I am working on projects like a Pro Clubs Discord Bot and making ot
 
 I am looking for SWE positions for Sep. 2021 across Europe.
 
-🌱  &nbsp;&nbsp;I’m currently learning: Hadoop, PySpark and reinforcing my C skills (reading Extreme C Programming)
+🌱  &nbsp;&nbsp;I’m currently learning: Hadoop, PySpark and reinforcing my C skills
+
+📚  &nbsp;&nbsp;I'm currently reading: Extreme C, Linux Device Drivers Third Edition
 
 👯  &nbsp;&nbsp;I’m looking to collaborate on Linux stuff 🐧 :)
 
